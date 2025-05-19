@@ -1,7 +1,7 @@
 # CODSOFT
 First Internship
 
-*COMPANY*: CODTECH IT SOLUTIONS
+*COMPANY*: CodSoft 
 
 *NAME*: BAPPI SINGH
 
@@ -11,4 +11,3 @@ First Internship
 
 *BATCH*:MAY BATCH B25
 
-*MENTOR*:NEELA SANTOSH
